@@ -1,5 +1,7 @@
 # Neon Caster - Juego de Visión por Computador
 
+![Portada Neon Caster](./portada_neon_caster.jpg)
+
 **Proyecto Final de Visión por Computador Grupo 19**
 
 **Autores:**
